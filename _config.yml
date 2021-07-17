@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
 title: Fox Baudelaire
-description: >
+description: |
   M.S. Student, University of Michigan
-  \n B.S. Brandeis University ('20)
-  \n A.S. Bunker Hill Comm. College ('17)
+  B.S. Brandeis University ('20)
+  A.S. Bunker Hill Comm. College ('17)
 logo: portrait_dual.png
 show_downloads: false
