@@ -1,4 +1,5 @@
 # Welcome
+
 [Twitter](https://twitter.com/foxbaudelaire) | [LinkedIn](https://www.linkedin.com/in/baudelairefox/) | [ORCID](https://orcid.org/0000-0002-5551-6851) || [Test](./other-page.md)
 
 I am a graduate student in the Pathways Master's Program within the Department of Molecular, Cellular and Developmental Biology at the University of Michigan. My primary research interests are in structural biology and protein biochemistry, among other topics at the chemistry-biology interface, as well as the use of quantitative and computational approaches to advance these fields. To this end, I am also pursuing a graduate certificate in scientific computing.
