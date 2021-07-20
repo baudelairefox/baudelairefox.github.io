@@ -1,3 +1,12 @@
+# Welcome
+
+I am currently a graduate student in the Pathways Master's Program within the Department of Molecular, Cellular and Developmental Biology at the University of Michigan. My primary research interests are in structural biology and protein biochemistry, among other topics at the chemistry-biology interface, as well as the use of quantitative and computational approaches to advance these fields. To this end, I am also pursuing at Michigan a graduate certificate in scientific computing.
+
+Previously, I graduated from Bunker Hill Community College and completed my undergraduate education at Brandeis University in Massachusetts, where I received my BS in
+biological physics and chemistry in 2020. My first research experience was an NIH _Bridges to the Baccalaureate_ summer fellowship at the University of Massachusetts - Boston, where I was hosted by Bill Hagar, Ph.D. to characterize polyphenoloxidases in greenhouse-grown barley. Thereafter, I contributed to applied microfluidics research in the Martin A. Fisher School of Physics at Brandeis, working both during the academic year and the summer months supported on an NSF REU fellowship. With initial plans to defer a research career for service in the Peace Corps, I spent the year after graduation working in contact tracing, workflow optimization in the COVID-19 diagnostic laboratory at the Broad Institute, and finally in protein expression and purification as an industry scientist at Albany Molecular Research Inc.
+
+More to come on this webpage as I learn how to use GitHub.
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
