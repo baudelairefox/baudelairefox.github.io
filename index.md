@@ -1,4 +1,5 @@
 # Welcome
+[Twitter](https://twitter.com/foxbaudelaire) | [LinkedIn](https://www.linkedin.com/in/baudelairefox/) | [ORCID](https://orcid.org/0000-0002-5551-6851) || [Test](./other-page.md)
 
 I am a graduate student in the Pathways Master's Program within the Department of Molecular, Cellular and Developmental Biology at the University of Michigan. My primary research interests are in structural biology and protein biochemistry, among other topics at the chemistry-biology interface, as well as the use of quantitative and computational approaches to advance these fields. To this end, I am also pursuing a graduate certificate in scientific computing.
 
@@ -28,7 +29,7 @@ You are currently viewing your project's **README** file. **_README_** files are
 
 **GitHub Pages** is a free and easy way to create a website using the code that lives in your GitHub repositories. You can use GitHub Pages to build a portfolio of your work, create a personal website, or share a fun project that you coded with the world. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
 
-[GitHub Pages](https://pages.github.com/) | [Twitter](https://twitter.com/foxbaudelaire) | LinkedIn
+[GitHub Pages](https://pages.github.com/) | [Twitter](https://twitter.com/foxbaudelaire) | LinkedIn(
 
 ## Rename this repository to publish your site
 
