@@ -1,6 +1,10 @@
 theme: jekyll-theme-minimal
 title: Fox Baudelaire
-description: "Antidisestab\
- lishmentarianism.\n\nGet on it."
+description: Several lines of text,\n
+ with some "quotes" of various 'types'.\n
+ Escapes (like \n) don't do anything.\n
+ \n
+ Newlines can be added by leaving a blank line.\n
+ Additional leading whitespace is ignored.\n
 logo: portrait_dual.png
 show_downloads: false
