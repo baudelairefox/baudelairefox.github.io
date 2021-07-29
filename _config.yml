@@ -1,10 +1,5 @@
 theme: jekyll-theme-minimal
 title: Fox Baudelaire
-description: Several lines of text,
- with some "quotes" of various 'types'.
- Escapes (like \n) don't do anything.
- 
- Newlines can be added by leaving a blank line.
- Additional leading whitespace is ignored.\n
+description: "Preferred pronouns: he, him, his. One of the above is an artist's rendition. The other is a cartoon."
 logo: portrait_dual.png
 show_downloads: false
