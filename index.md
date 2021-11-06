@@ -13,4 +13,5 @@ More to come on this webpage as I learn how to use GitHub.
 _"I am, somehow, less interested in the weight and convolutions of Einstein’s brain than in the near certainty that people of equal talent have lived and died in cotton fields and sweatshops."_ — Stephen Jay Gould
 
 _"Knowledge is an unending adventure at the edge of uncertainty."_ — Jacob Bronowski
-# Welcome to GitHub
+
+![Maslow-before-Bloom](Maslow_before_Bloom.jpg)
