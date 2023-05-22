@@ -12,9 +12,9 @@ In 2020, I earned a B.S. in biological physics and chemistry from Brandeis Unive
 
 Prior to that, I graduated from Bunker Hill Community College and had [experienced homelessness and food insecurity](https://www.circleofhopeonline.org/news/2019/11/21/helping-homeless-college-students-flourish-and-thrive). For most of my time in the Boston area, I was also a bookstore clerk at [BookLink](https://www.boston-airport.com/shops-and-stores/terminal-a/booklink) in Terminal A of Boston Logan International Airport.
 
-At Brandeis, I completed a minor concentration in philosophy. I maintain a broad interest in epistemology, the history and philosophy of science, and questions of value and judgment in scientific practice, especially as they pertain to the participation of minoritized folx in STEM education and participation. I have more ancillary engagement in topics such as the psychology and cognitive science of learning, the intersection of science with public policy, bridging the "two cultures" divide, and the humanistic significance of science.
+At Brandeis, I completed a minor concentration in philosophy. I maintain a broad interest in epistemology, the history and philosophy of science, and questions of value and judgment in scientific practice, especially as they pertain to the participation and representation of minoritized folx in STEM education. I am further engaged in ancillary areas such as the cognitive science and psychology of learning, the intersection of science with public policy, bridging the "two cultures" divide, and the humanistic significance of science.
 
-This page is subject to further construction; more to come.
+This page is subject to further construction; there is more to come.
 
 _"I am, somehow, less interested in the weight and convolutions of Einstein’s brain than in the near certainty that people of equal talent have lived and died in cotton fields and sweatshops."_ — Stephen Jay Gould
 
