@@ -1,0 +1,125 @@
+baseURL: "https://baudelairefox.github.io/" 
+title: Fox Baudelaire
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+social:
+    twitter: foxbaudelaire
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: About Me
+          url: /about/
+          weight: 1
+        - name: Teaching Philosophy
+          url: /teaching_statement
+          weight: 2
+        - name: Statement of Commitment to DEI
+          url: /DEI_statement/
+          weight: 3
+        - name: Tags
+          url: /tags/
+          weight: 5     
+        - name: Interests
+          url: /interests
+          weight: 4
+
+params:
+    description: "I am recent graduate of the Pathways Master's Program at the University of Michigan"
+    author: Fox Baudelaire
+    # googleAnalyticsID: "G-97G4MZ4061"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: true
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Fox Baudelaire
+          subtitle: "I am a recent graduate of the Pathways Master's Program at the University of Michigan."
+          imageUrl: "/fblaire_profile.jpg"
+          imageWidth: 170
+          imageHeight: 170
+          imageTitle: Fox Baudelaire
+          buttons:
+            - name: Papers
+              url: /papers/
+            - name: Courses
+              url: /courses/
+            - name: Design
+              url: /design/
+            - name: Newsletter
+              url: https://foxbaudelaire.substack.com
+    socialIcons:
+        - name: CV
+          url: /FoxBaudelaireCV_Jul2023.pdf
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=te0XsfwAAAAJ
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/baudelairefox/
+        - name: Twitter
+          url: https://twitter.com/foxbaudelaire
+        - name: GitHub
+          url: https://github.com/baudelairefox?tab=repositories
+        - name: ORCiD
+          url: https://orcid.org/0000-0002-5551-6851        
+        # - name: YouTube
+        #  url: https://www.youtube.com/
+        # - name: Email
+        #  url: mailto:fblaire@umich.edu
+        # - name: Location
+        #   url: /location/
+        # - name: Office Hours
+        #  url: /officehours/
+        # - name: Substack
+        #   url: https://foxbaudelaire.substack.com
+        # - name: Ko-fi
+        #   url: https://kofi.com
+
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: true
+        hiddenInSingle: true
+    label:
+      text: "Fox Baudelaire"
+      icon: /favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: xcode
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
+
+# max number of characters:
+# * title: 70
+# * description: 120–155
+# * summary: 265
