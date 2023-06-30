@@ -31,7 +31,7 @@ menu:
           weight: 4
 
 params:
-    description: "I am recent graduate of the Pathways Master's Program at the University of Michigan"
+    description: "I am an interdisciplinary scientist, scholar, and Renaissance Man ever in the making. My primary research interest is theory and computation from modern thermodynamics and statistical mechanics applied to problems at the chemistry-biology interface, such as drug development. My other interests are in education, philosophy, and social justice. I am a recent graduate of the Pathways Master's Program at the University of Michigan; in the fall of 2023, I will be a visiting scholar in Canada through the Fulbright U.S. Student Program."
     author: Fox Baudelaire
     # googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
@@ -56,7 +56,7 @@ params:
     profileMode:
           enabled: true
           title: Fox Baudelaire
-          subtitle: "I am a recent graduate of the Pathways Master's Program at the University of Michigan."
+          subtitle: "I am an interdisciplinary scientist, scholar, and Renaissance Man ever in the making. My primary research interest is theory and computation from modern thermodynamics and statistical mechanics applied to problems at the chemistry-biology interface, such as drug development. My other interests are in education, philosophy, and social justice. I am a recent graduate of the Pathways Master's Program at the University of Michigan; in the fall of 2023, I will be a visiting scholar in Canada through the Fulbright U.S. Student Program."
           imageUrl: "/fblaire_profile.jpg"
           imageWidth: 170
           imageHeight: 170
