@@ -70,7 +70,7 @@ params:
               url: /articles-and-letters/
             - name: Newsletter
               url: https://foxbaudelaire.substack.com
-              name: About Me
+            - name: About Me (coming soon)
               url: /about/
     socialIcons:
         - name: CV
