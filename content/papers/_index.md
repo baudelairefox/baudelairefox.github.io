@@ -1,15 +1,5 @@
 ---
 title: "About"
 aliases: /archive/
-description: "Sketch of my personal and professional history."
+description: "Access to previously published papers."
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque mollis nulla quis blandit mattis. Duis volutpat, diam eu dignissim porttitor, purus erat ultricies eros, a mollis libero est eu velit. Quisque fermentum ante dictum ex tristique, id porttitor mi vehicula. Phasellus facilisis dolor imperdiet, congue purus eu, hendrerit nunc. Integer leo nulla, faucibus nec scelerisque at, pellentesque nec mi. Nullam at velit malesuada, lobortis dui quis, malesuada lorem. Pellentesque feugiat ligula ac erat accumsan efficitur. In hac habitasse platea dictumst. Aliquam non nibh tellus. Sed placerat ultrices urna sit amet gravida.
-
-Cras sed ante bibendum, hendrerit sapien eget, consequat sapien. Donec maximus eget dui nec commodo. Nunc imperdiet enim ac nisl venenatis lacinia. Proin nec lorem dignissim, lacinia arcu eu, varius sem. Donec placerat augue et eros hendrerit maximus. Phasellus sed egestas nibh. Fusce a leo quis lacus vestibulum ornare. Donec ac lacinia magna. Ut varius eros nec pulvinar volutpat. Nam vulputate nisi ac vehicula fermentum. Curabitur ut arcu urna.
-
-Curabitur tincidunt at massa id euismod. Phasellus vel congue ligula. Nam mattis pulvinar arcu in finibus. Phasellus quis lobortis justo. Duis quis mollis mi. In pulvinar tortor at elit elementum, non feugiat tellus facilisis. Fusce justo orci, suscipit ut blandit in, semper suscipit velit. Nulla vulputate, libero nec faucibus aliquet, tortor elit sollicitudin odio, quis tincidunt lectus elit at libero. Curabitur a augue metus. Mauris a tortor sit amet lorem pharetra imperdiet vitae eget elit. Praesent lacinia urna gravida, tincidunt elit et, ultricies ante. Aliquam auctor elit quis elementum venenatis. Nam feugiat massa et neque suscipit tincidunt. Aenean vel risus lacinia, vehicula velit congue, maximus purus. Duis mauris eros, consequat eu turpis in, congue venenatis nulla. Aliquam vitae dui a turpis lobortis suscipit sed vel est.
-
-Suspendisse potenti. Maecenas tristique vitae mauris non semper. Vestibulum mattis, tellus sed fringilla porta, lacus urna convallis leo, a maximus metus urna ut mi. Suspendisse et dictum nunc. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse ullamcorper, arcu nec blandit iaculis, turpis massa pretium diam, faucibus pretium tortor orci vitae nisl. Etiam eget blandit eros, a placerat eros. Quisque vel justo vitae felis rhoncus gravida. Nam sagittis felis vitae arcu semper mollis. Morbi eros tortor, porta at ultricies non, tincidunt vel orci. Ut ultrices neque mauris, nec iaculis orci volutpat vel. Phasellus blandit, elit at tincidunt faucibus, nisi nibh sodales augue, id porta mauris dui id nisi. Vestibulum finibus sem et aliquet condimentum. Pellentesque eget cursus magna, ut bibendum tortor. Fusce sit amet est dui.
-
-Cras gravida iaculis nisi et pulvinar. Quisque tristique nisi ut dapibus aliquet. Nam non tellus sollicitudin, sodales nibh vel, facilisis metus. Aliquam nisl est, scelerisque ut eros ut, lobortis lobortis neque. Nam porttitor urna leo. In hac habitasse platea dictumst. Fusce laoreet est risus, vel convallis elit tincidunt vitae. 

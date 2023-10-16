@@ -31,7 +31,7 @@ menu:
           weight: 4
 
 params:
-    description: "I am an interdisciplinary scientist, scholar, and Renaissance Man ever in the making. My primary research interest is theory and computation from modern thermodynamics and statistical mechanics applied to problems at the chemistry-biology interface, such as drug development. Other interests of mine are in education, philosophy, and social justice. Currently, I am a visiting researcher in the Department of Physics at Toronto Metropolitan University in Canada, under the aegis of the Fulbright U.S. Student Program. Earlier, I completed a master's degree advised by Randy Stockbridge at the University of Michigan, a B.S. in biological physics and chemistry from Brandeis University, and an associate's degree at Bunker Hill Community College."
+    description: "I am an interdisciplinary scientist, scholar, and Renaissance man ever in the making. Through the Fulbright U.S. Student Program, I am currently a visiting researcher in the Department of Physics at Toronto Metropolitan University in Canada. My primary research interests span theory and computation from modern thermodynamics and statistical mechanics applied to problems at the chemistry-biology interface. Other interests of mine are in education, philosophy, and social justice. Previously, I graduated from the University of Michigan, Brandeis University, and Bunker Hill Community College. "
     author: Fox Baudelaire
     # googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
@@ -56,7 +56,7 @@ params:
     profileMode:
           enabled: true
           title: Fox Baudelaire
-          subtitle: "I am an interdisciplinary scientist, scholar, and Renaissance Man ever in the making. My primary research interest is theory and computation from modern thermodynamics and statistical mechanics applied to problems at the chemistry-biology interface, such as drug development. Other interests of mine are in education, philosophy, and social justice. Currently, I am a visiting researcher in the Department of Physics at Toronto Metropolitan University in Canada, under the aegis of the Fulbright U.S. Student Program. Earlier, I completed a master's degree advised by Randy Stockbridge at the University of Michigan, a B.S. in biological physics and chemistry from Brandeis University, and an associate's degree at Bunker Hill Community College."
+          subtitle: "I am an interdisciplinary scientist, scholar, and Renaissance man ever in the making. Through the Fulbright U.S. Student Program, I am currently a visiting researcher in the Department of Physics at Toronto Metropolitan University in Canada. My primary research interests span theory and computation from modern thermodynamics and statistical mechanics applied to problems at the chemistry-biology interface. Other interests of mine are in education, philosophy, and social justice. Previously, I graduated from the University of Michigan, Brandeis University, and Bunker Hill Community College. "
           imageUrl: "/fblaire_profile.jpg"
           imageWidth: 170
           imageHeight: 170
