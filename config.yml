@@ -14,21 +14,21 @@ taxonomies:
 
 menu:
     main:
+        - name: Papers
+          url: /papers/
+          weight: 1
+        - name: Aperçus
+          url: /apercus/
+          weight: 2
+        - name: Articles and Letters
+          url: /articles-and-letters/
+          weight: 3
         - name: About Me
           url: /about/
-          weight: 1
-        - name: Teaching Philosophy
-          url: /teaching_statement
-          weight: 2
-        - name: Statement of Commitment to DEI
-          url: /DEI_statement/
-          weight: 3
+          weight: 4     
         - name: Tags
           url: /tags/
-          weight: 5     
-        - name: Interests
-          url: /interests
-          weight: 4
+          weight: 5
 
 params:
     description: "I am an interdisciplinary scientist, scholar, and Renaissance man ever in the making. Through the Fulbright U.S. Student Program, I am currently a visiting researcher in the Department of Physics at Toronto Metropolitan University in Canada. My primary research interests span theory and computation from modern thermodynamics and statistical mechanics applied to problems at the chemistry-biology interface. Other interests of mine are in education, philosophy, and social justice. Previously, I graduated from the University of Michigan, Brandeis University, and Bunker Hill Community College. "
@@ -64,12 +64,14 @@ params:
           buttons:
             - name: Papers
               url: /papers/
-            - name: Courses
-              url: /courses/
-            - name: Design
-              url: /design/
+            - name: Aperçus
+              url: /apercus/
+            - name: Articles and Letters
+              url: /articles-and-letters/
             - name: Newsletter
               url: https://foxbaudelaire.substack.com
+              name: About Me
+              url: /about/
     socialIcons:
         - name: CV
           url: /FoxBaudelaireCV_Oct2023-public.pdf
