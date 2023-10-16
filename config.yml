@@ -23,8 +23,8 @@ menu:
         - name: Articles and Letters
           url: /articles-and-letters/
           weight: 3
-        - name: About Me
-          url: /about/
+        - name: Featured Profile
+          url: https://alumni.brandeis.edu/stories/students/scholars/baudelaire-fox.html
           weight: 4     
         - name: Tags
           url: /tags/
@@ -70,8 +70,8 @@ params:
               url: /articles-and-letters/
             - name: Newsletter
               url: https://foxbaudelaire.substack.com
-            - name: About Me (coming soon)
-              url: /about/
+            - name: Featured Profile
+              url: https://alumni.brandeis.edu/stories/students/scholars/baudelaire-fox.html
     socialIcons:
         - name: CV
           url: /FoxBaudelaireCV_Oct2023-public.pdf
