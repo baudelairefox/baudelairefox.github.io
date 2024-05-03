@@ -31,7 +31,7 @@ menu:
           weight: 5
 
 params:
-    description: "I am an interdisciplinary scientist, scholar, and Renaissance man ever in the making. Through an award from the Fulbright U.S. Student Program, I am currently a visiting researcher in the Department of Physics at Toronto Metropolitan University in Canada. My primary research interests span theory and computation from modern thermodynamics and statistical mechanics applied to problems at the chemistry-biology interface. With additional interests in education, philosophy, and social justice, my activities also touch on such themes as human-centered STEM instruction, bridging the "two cultures" divide, and liberatory access to participation in science beyond contemporary DEI (diversity, equity, inclusion) frameworks."
+    description: "I am an interdisciplinary scientist, scholar, and Renaissance man ever in the making. Through an award from the Fulbright U.S. Student Program, I am currently a visiting researcher in the Department of Physics at Toronto Metropolitan University in Canada. My primary research interests span theory and computation from modern thermodynamics and statistical mechanics applied to problems at the chemistry-biology interface. Other interests of mine are in education, philosophy, and social justice. Now aspiring to a doctorate, I have graduated from the University of Michigan, Brandeis University, and Bunker Hill Community College. "
     author: Fox Baudelaire
     # googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
