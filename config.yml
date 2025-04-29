@@ -31,7 +31,7 @@ menu:
           weight: 5
 
 params:
-    description: "I am an interdisciplinary scientist, scholar, and Renaissance man ever in the making. My current position is in the Molecular Biophysics and Structural Biology Ph.D. program jointly run by the University of Pittsburgh and Carnegie Mellon University. Previously, I was a visiting scholar at Toronto Metropolitan University in Canada, supported by a Fulbright U.S. Student Award. My primary research interests span theory and computation from modern thermodynamics and statistical mechanics applied to problems at the chemistry-biology interface. With further interests in education, philosophy, and social justice, my activities also touch on such themes as integrated science instruction, bridging the two-cultures divide, and incorporating a praxis of liberation within DEI (diversity, equity, inclusion) efforts in STEM."
+    description: "I am an interdisciplinary scientist, scholar, and Renaissance man ever in the making. My current position is in the Molecular Biophysics and Structural Biology Ph.D. program jointly run by the University of Pittsburgh and Carnegie Mellon University. Previously, I was a visiting scholar at Toronto Metropolitan University in Canada, supported by a Fulbright U.S. Student Award. My primary research interests span various intersections at the chemistry-biology interface. With further interests in education, philosophy, and social justice, my activities also touch on such themes as bridging the two-cultures divide, and efforts to promote greater access and opportunity in STEM."
     author: Fox Baudelaire
     # googleAnalyticsID: "G-97G4MZ4061"
     DateFormat: "January 2006"
@@ -56,7 +56,7 @@ params:
     profileMode:
           enabled: true
           title: Fox Baudelaire
-          subtitle: "I am an interdisciplinary scientist, scholar, and Renaissance man ever in the making. My current position is in the Molecular Biophysics and Structural Biology Ph.D. program jointly run by the University of Pittsburgh and Carnegie Mellon University. Previously, I was a visiting scholar at Toronto Metropolitan University in Canada, supported by a Fulbright U.S. Student Award. My primary research interests span theory and computation from modern thermodynamics and statistical mechanics applied to problems at the chemistry-biology interface. With further interests in education, philosophy, and social justice, my activities also touch on such themes as integrated science instruction, bridging the two-cultures divide, and incorporating a praxis of liberation within DEI (diversity, equity, inclusion) efforts in STEM."
+          subtitle: "I am an interdisciplinary scientist, scholar, and Renaissance man ever in the making. My current position is in the Molecular Biophysics and Structural Biology Ph.D. program jointly run by the University of Pittsburgh and Carnegie Mellon University. Previously, I was a visiting scholar at Toronto Metropolitan University in Canada, supported by a Fulbright U.S. Student Award. My primary research interests span various intersections at the chemistry-biology interface. With further interests in education, philosophy, and social justice, my activities also touch on such themes as bridging the two-cultures divide, and efforts to promote greater access and opportunity in STEM."
           imageUrl: "/fblaire_profile_Apr2024-r1.png"
           imageWidth: 170
           imageHeight: 170
