@@ -1,13 +1,12 @@
 baseURL: "https://baudelairefox.github.io/" 
 title: Fox Baudelaire
-paginate: 20
 theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
 
-social:
-    twitter: foxbaudelaire
+pagination:
+  pagerSize: 20
 
 taxonomies:
     tag: tags
@@ -20,7 +19,7 @@ menu:
         - name: Aperçus
           url: /apercus/
           weight: 2
-        - name: Articles and Letters
+        - name: Articles
           url: /articles-and-letters/
           weight: 3
         - name: Featured Profile
@@ -88,7 +87,7 @@ params:
         # - name: YouTube
         #  url: https://www.youtube.com/
         # - name: Email
-        #  url: mailto:fblaire@umich.edu
+        #  url: mailto:fob5@pitt.edu
         # - name: Location
         #   url: /location/
         # - name: Office Hours
@@ -120,6 +119,9 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
+
+titleCaseStyle: 'none'
+enableGitInfo: true
 
 # max number of characters:
 # * title: 70

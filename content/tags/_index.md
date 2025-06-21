@@ -1,6 +1,6 @@
 ---
 title: "Tags"
-description: "Topics and methods appearing throughout my papers and courses."
+description: "Relevant tags in my portfolio of content."
 layout: "terms"
 
 ---
